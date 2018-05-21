@@ -6,3 +6,7 @@ How to :
 - Replace App ID and Secret/Password with actual
 
 Solution base use .NET-Core-2.0-Single-Sign-On
+
+Technology Stack :
+- .NET Core 2.0
+- Entity Framework Core
