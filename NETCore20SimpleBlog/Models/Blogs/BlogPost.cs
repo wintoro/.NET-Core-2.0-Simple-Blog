@@ -19,6 +19,7 @@ namespace NETCore20SimpleBlog.Models.Blogs
         [EmailAddress]
         [StringLength(100)]
         public string Author { get; set; }
+        [DataType(DataType.Date)]
         public DateTime CreateDate { get; set; }
         [Required]
         [DataType(DataType.Html)]
